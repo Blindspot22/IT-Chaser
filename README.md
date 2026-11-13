@@ -1,5 +1,6 @@
 # IT-Chaser
 It Talent Chaser test project
+Nonhle Maseko
 Crisper Mdluli
 Bandile Simelane
 Lusanda Jele
