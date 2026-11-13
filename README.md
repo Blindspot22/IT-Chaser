@@ -14,3 +14,5 @@ Sihle Mthembu
 Snqobile Dlamini
 Wakhile 
 Banele Nkambule
+
+https://discord.gg/ESpRbEWw8
